@@ -1,0 +1,41 @@
+img {
+  border-radius: 50%;
+}
+body {
+  background-color: #f5ffc3;
+  color: #509aaf;
+}
+hr {
+  color: #7dd8c7;
+  border-style: dotted hidden hidden;
+  border-width: 3px;
+  width: 15%;
+}
+h1 {
+  color: #612c83;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  color: #612c83;
+}
+table {
+  text-align: center;
+  width: 42%;
+  margin-left: 29%;
+  margin-right: 29%;
+}
+p {
+  text-align: center;
+}
+ul {
+  text-align: center;
+}
+a {
+  color: #509aaf;
+}
+form {
+  width: 25%;
+  margin-left: 37%;
+  margin-right: 37%;
+}
