@@ -1,4 +1,8 @@
-img {
+.profilePicture {
+  border-radius: 50%;
+}
+.socialMediaIcons{
+  width: 25px;
   border-radius: 50%;
 }
 body {
@@ -33,6 +37,9 @@ ul {
 }
 a {
   color: #509aaf;
+}
+a:hover{
+  color: #7dd8c7;
 }
 form {
   width: 25%;
